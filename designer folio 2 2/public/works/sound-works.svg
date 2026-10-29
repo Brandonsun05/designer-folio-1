@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#101012"/>
+  <g fill="none" stroke-linecap="round" stroke-width="34">
+    <path d="M80 450c80-230 160-230 240 0s160 230 240 0 160-230 240 0 160 230 240 0" stroke="#35e8ff"/>
+    <path d="M80 560c80-160 160-160 240 0s160 160 240 0 160-160 240 0 160 160 240 0" stroke="#ff3f7f"/>
+    <path d="M80 340c80-100 160-100 240 0s160 100 240 0 160-100 240 0 160 100 240 0" stroke="#d7ff3f"/>
+  </g>
+  <circle cx="600" cy="450" r="130" fill="#f7f4ef"/>
+  <circle cx="600" cy="450" r="54" fill="#101012"/>
+  <text x="70" y="150" fill="#f7f4ef" font-family="Arial Black, Arial" font-size="82">SOUND WORKS</text>
+</svg>

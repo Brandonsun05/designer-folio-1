@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#111018"/>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#35e8ff"/>
+      <stop offset=".5" stop-color="#ff3f7f"/>
+      <stop offset="1" stop-color="#101012"/>
+    </linearGradient>
+  </defs>
+  <rect x="92" y="96" width="1016" height="640" rx="10" fill="url(#sky)"/>
+  <circle cx="884" cy="240" r="88" fill="#d7ff3f"/>
+  <path d="M92 736 360 430 540 620 710 410 1108 736Z" fill="#101012" opacity=".92"/>
+  <path d="M92 736 300 560 462 674 590 548 780 736Z" fill="#f7f4ef" opacity=".28"/>
+  <rect x="92" y="96" width="1016" height="640" rx="10" fill="none" stroke="#f7f4ef" stroke-width="16" opacity=".75"/>
+  <text x="92" y="830" fill="#f7f4ef" font-family="Arial Black, Arial" font-size="76">PHOTOGRAPHY</text>
+</svg>

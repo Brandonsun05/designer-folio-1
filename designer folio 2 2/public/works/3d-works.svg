@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#081923"/>
+  <defs>
+    <linearGradient id="cube" x1="0" x2="1">
+      <stop offset="0" stop-color="#35e8ff"/>
+      <stop offset="1" stop-color="#ff3f7f"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(340 180)">
+    <path d="M260 0 520 150 260 300 0 150Z" fill="#d7ff3f"/>
+    <path d="M0 150 260 300v300L0 450Z" fill="#35e8ff"/>
+    <path d="M520 150 260 300v300l260-150Z" fill="#ff3f7f"/>
+    <path d="M260 0v300M0 150l260 150 260-150" fill="none" stroke="#101012" stroke-width="16" opacity=".6"/>
+  </g>
+  <circle cx="190" cy="170" r="66" fill="#ff8b2f"/>
+  <circle cx="990" cy="720" r="96" fill="#35e8ff" opacity=".72"/>
+  <text x="70" y="808" fill="#f7f4ef" font-family="Arial Black, Arial" font-size="96">3D WORKS</text>
+</svg>

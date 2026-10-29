@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#f7f4ef"/>
+  <rect x="88" y="88" width="1024" height="724" fill="#101012"/>
+  <rect x="152" y="152" width="360" height="240" fill="#ff3f7f"/>
+  <rect x="556" y="152" width="492" height="92" fill="#d7ff3f"/>
+  <rect x="556" y="286" width="340" height="48" fill="#35e8ff"/>
+  <rect x="556" y="376" width="430" height="48" fill="#f7f4ef"/>
+  <rect x="152" y="454" width="896" height="72" fill="#ff8b2f"/>
+  <rect x="152" y="586" width="260" height="150" fill="#35e8ff"/>
+  <rect x="460" y="586" width="260" height="150" fill="#d7ff3f"/>
+  <rect x="768" y="586" width="280" height="150" fill="#ff3f7f"/>
+  <text x="152" y="820" fill="#101012" font-family="Arial Black, Arial" font-size="76">2D WORKS</text>
+</svg>

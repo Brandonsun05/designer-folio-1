@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#111018"/>
+  <path d="M90 760 600 160l510 600Z" fill="#35e8ff" opacity=".22"/>
+  <path d="M220 760 600 300l380 460Z" fill="#ff3f7f" opacity=".72"/>
+  <path d="M390 760 600 500l210 260Z" fill="#d7ff3f"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".18">
+    <path d="M0 760H1200M0 640H1200M0 520H1200M0 400H1200"/>
+    <path d="M120 900 600 160 1080 900M300 900 600 160 900 900"/>
+  </g>
+  <text x="64" y="112" fill="#f7f4ef" font-family="Arial Black, Arial" font-size="64">VIRTUAL</text>
+  <text x="64" y="178" fill="#d7ff3f" font-family="Arial Black, Arial" font-size="64">ENVIRONMENTS</text>
+</svg>

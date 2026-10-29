@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#f7f4ef"/>
+  <g transform="translate(130 90)">
+    <rect width="760" height="520" rx="28" fill="#101012"/>
+    <circle cx="80" cy="75" r="18" fill="#ff3f7f"/>
+    <circle cx="132" cy="75" r="18" fill="#ff8b2f"/>
+    <circle cx="184" cy="75" r="18" fill="#d7ff3f"/>
+    <path d="M80 190h460M80 270h610M80 350h320M80 430h540" stroke="#35e8ff" stroke-width="28" stroke-linecap="round"/>
+  </g>
+  <path d="M840 520 1080 660 900 720 780 860Z" fill="#ff3f7f"/>
+  <path d="M840 520 900 720 780 860" fill="none" stroke="#101012" stroke-width="18"/>
+  <text x="62" y="805" fill="#101012" font-family="Arial Black, Arial" font-size="72">INTERACTIVE MEDIA</text>
+</svg>

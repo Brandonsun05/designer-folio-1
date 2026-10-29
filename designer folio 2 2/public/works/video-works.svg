@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#170a12"/>
+  <rect x="80" y="120" width="1040" height="620" rx="42" fill="#f7f4ef"/>
+  <path d="M496 300 760 450 496 600Z" fill="#ff3f7f"/>
+  <g fill="#101012">
+    <rect x="130" y="176" width="60" height="92"/>
+    <rect x="230" y="176" width="60" height="92"/>
+    <rect x="330" y="176" width="60" height="92"/>
+    <rect x="430" y="176" width="60" height="92"/>
+    <rect x="530" y="176" width="60" height="92"/>
+    <rect x="630" y="176" width="60" height="92"/>
+    <rect x="730" y="176" width="60" height="92"/>
+    <rect x="830" y="176" width="60" height="92"/>
+    <rect x="930" y="176" width="60" height="92"/>
+    <rect x="130" y="592" width="60" height="92"/>
+    <rect x="230" y="592" width="60" height="92"/>
+    <rect x="330" y="592" width="60" height="92"/>
+    <rect x="430" y="592" width="60" height="92"/>
+    <rect x="530" y="592" width="60" height="92"/>
+    <rect x="630" y="592" width="60" height="92"/>
+    <rect x="730" y="592" width="60" height="92"/>
+    <rect x="830" y="592" width="60" height="92"/>
+    <rect x="930" y="592" width="60" height="92"/>
+  </g>
+  <text x="76" y="832" fill="#d7ff3f" font-family="Arial Black, Arial" font-size="88">VIDEO WORKS</text>
+</svg>

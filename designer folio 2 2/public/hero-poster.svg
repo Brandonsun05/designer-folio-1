@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-label="Abstract neon motion poster">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset=".35" stop-color="#24115f"/>
+      <stop offset=".68" stop-color="#061d2f"/>
+      <stop offset="1" stop-color="#080808"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="26"/></filter>
+    <radialGradient id="hot" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ff3f7f"/>
+      <stop offset="1" stop-color="#ff3f7f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#35e8ff"/>
+      <stop offset="1" stop-color="#35e8ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <g filter="url(#blur)" opacity=".9">
+    <circle cx="310" cy="240" r="280" fill="url(#hot)"/>
+    <circle cx="1500" cy="290" r="360" fill="url(#cyan)"/>
+    <circle cx="1120" cy="820" r="320" fill="#d7ff3f" opacity=".36"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="16" opacity=".72">
+    <path d="M-80 720 C 260 430, 480 910, 820 620 S 1350 240, 2010 540" stroke="#ff8b2f"/>
+    <path d="M-40 450 C 300 180, 620 610, 960 360 S 1420 180, 1960 300" stroke="#35e8ff"/>
+    <path d="M150 990 C 520 610, 780 1040, 1160 760 S 1650 520, 1990 740" stroke="#ff3f7f"/>
+  </g>
+  <g opacity=".22" stroke="#fff" stroke-width="1">
+    <path d="M0 180H1920M0 360H1920M0 540H1920M0 720H1920M0 900H1920"/>
+    <path d="M240 0V1080M480 0V1080M720 0V1080M960 0V1080M1200 0V1080M1440 0V1080M1680 0V1080"/>
+  </g>
+</svg>
